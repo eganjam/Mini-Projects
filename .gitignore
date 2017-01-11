@@ -1,2 +1,4 @@
 *.csv
 conversion_data.csv
+99_EditTable.ipynb
+archive/01_Conversion_Rate.ipynb
